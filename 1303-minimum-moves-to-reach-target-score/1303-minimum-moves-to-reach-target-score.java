@@ -15,7 +15,7 @@ class Solution {
         if(target%2==0){
             return 1+minMoves(target/2,maxDoubles-1);
         }else{
-            return 1+minMoves((target/2)*2,maxDoubles);
+            return 1+minMoves(target-1,maxDoubles);
         }
     }
 }
