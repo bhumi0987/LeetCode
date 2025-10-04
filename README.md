@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/bhumi0987/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
