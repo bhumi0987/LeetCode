@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Union Find
 |  |
 | ------- |
@@ -128,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Tree
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
