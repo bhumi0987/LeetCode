@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bhumi0987/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3795-zero-array-transformation-iv](https://github.com/bhumi0987/LeetCode/tree/master/3795-zero-array-transformation-iv) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Stack
 |  |
 | ------- |
