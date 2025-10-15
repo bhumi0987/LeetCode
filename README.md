@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
