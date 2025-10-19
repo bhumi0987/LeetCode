@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [4055-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Tree
 |  |
