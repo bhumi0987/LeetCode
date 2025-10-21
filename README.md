@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
+| [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
