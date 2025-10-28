@@ -18,7 +18,7 @@ class Solution {
         }
         long ans=0;
         for(int j=0;j<m;j++){
-            int next=(curr==0)?mat[i][j]:gcd(curr,mat[i][j]);
+            int next=gcd(curr,mat[i][j]);
             ans=(ans+solve(i+1,next,n,m,mat,dp))%mod;
         }
         return dp[i][curr]=(int)ans;
