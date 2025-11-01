@@ -1,15 +1,18 @@
 class Solution {
     public int findSmallestInteger(int[] nums, int value) {
-        int[] freq=new int[value];
-        for(int it:nums){
-            int rem=((it%value)+value)%value;
-            freq[rem]++;
+        int[] remainderCount = new int[value];
+
+        for (int num : nums) {
+            int rem = ((num % value) + value) % value;
+            remainderCount[rem]++;
         }
-        int count=0;
-        while(freq[count%value]>0){
-            freq[count%value]--;
-            count++;
+
+        int result = 0;
+        while (remainderCount[result % value] > 0) {
+            remainderCount[result % value]--;
+            result++;
         }
-        return count;
+
+        return result;
     }
 }
