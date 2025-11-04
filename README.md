@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/bhumi0987/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1466-jump-game-v](https://github.com/bhumi0987/LeetCode/tree/master/1466-jump-game-v) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/bhumi0987/LeetCode/tree/master/0922-possible-bipartition) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Matrix
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bhumi0987/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/bhumi0987/LeetCode/tree/master/0922-possible-bipartition) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/bhumi0987/LeetCode/tree/master/0922-possible-bipartition) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/bhumi0987/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Dynamic Programming
 |  |
@@ -302,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [4055-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
