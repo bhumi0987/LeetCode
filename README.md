@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bhumi0987/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhumi0987/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/bhumi0987/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Shortest Path
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bhumi0987/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhumi0987/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/bhumi0987/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Indexed Tree
