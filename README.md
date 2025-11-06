@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bhumi0987/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/bhumi0987/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/bhumi0987/LeetCode/tree/master/2169-simple-bank-system) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bhumi0987/LeetCode/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/bhumi0987/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [4055-longest-balanced-substring-i](https://github.com/bhumi0987/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
