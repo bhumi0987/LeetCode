@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/bhumi0987/LeetCode/tree/master/1659-get-the-maximum-score) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/bhumi0987/LeetCode/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bhumi0987/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2648-number-of-ways-to-earn-points](https://github.com/bhumi0987/LeetCode/tree/master/2648-number-of-ways-to-earn-points) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bhumi0987/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/bhumi0987/LeetCode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/bhumi0987/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
