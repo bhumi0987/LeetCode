@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/bhumi0987/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/bhumi0987/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
