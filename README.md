@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
 | [0805-escape-the-ghosts](https://github.com/bhumi0987/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/bhumi0987/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bhumi0987/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/bhumi0987/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/bhumi0987/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/bhumi0987/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/bhumi0987/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/bhumi0987/LeetCode/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
