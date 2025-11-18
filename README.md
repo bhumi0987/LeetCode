@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/bhumi0987/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/bhumi0987/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/bhumi0987/LeetCode/tree/master/0486-predict-the-winner) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/bhumi0987/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0805-escape-the-ghosts](https://github.com/bhumi0987/LeetCode/tree/master/0805-escape-the-ghosts) |
