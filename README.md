@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/bhumi0987/LeetCode/tree/master/0805-escape-the-ghosts) |
 | [0842-card-flipping-game](https://github.com/bhumi0987/LeetCode/tree/master/0842-card-flipping-game) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
+| [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/bhumi0987/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/bhumi0987/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1466-jump-game-v](https://github.com/bhumi0987/LeetCode/tree/master/1466-jump-game-v) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/bhumi0987/LeetCode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [1009-pancake-sorting](https://github.com/bhumi0987/LeetCode/tree/master/1009-pancake-sorting) |
+| [1139-previous-permutation-with-one-swap](https://github.com/bhumi0987/LeetCode/tree/master/1139-previous-permutation-with-one-swap) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/bhumi0987/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1612-avoid-flood-in-the-city](https://github.com/bhumi0987/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
