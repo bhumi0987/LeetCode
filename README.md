@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/bhumi0987/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bhumi0987/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0770-couples-holding-hands](https://github.com/bhumi0987/LeetCode/tree/master/0770-couples-holding-hands) |
 | [0794-swim-in-rising-water](https://github.com/bhumi0987/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/bhumi0987/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/bhumi0987/LeetCode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2175-count-nodes-with-the-highest-score](https://github.com/bhumi0987/LeetCode/tree/master/2175-count-nodes-with-the-highest-score) |
