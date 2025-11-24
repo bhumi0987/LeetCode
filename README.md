@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/bhumi0987/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/bhumi0987/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/bhumi0987/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2499-minimum-money-required-before-transactions](https://github.com/bhumi0987/LeetCode/tree/master/2499-minimum-money-required-before-transactions) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2538-minimum-cost-to-make-array-equal](https://github.com/bhumi0987/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/bhumi0987/LeetCode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bhumi0987/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/bhumi0987/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/bhumi0987/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
