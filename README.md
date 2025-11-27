@@ -2,7 +2,7 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
-# NeetCode Topics
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bhumi0987/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhumi0987/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2721-sum-of-distances](https://github.com/bhumi0987/LeetCode/tree/master/2721-sum-of-distances) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
