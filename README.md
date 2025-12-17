@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/bhumi0987/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/bhumi0987/LeetCode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/bhumi0987/LeetCode/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/bhumi0987/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/bhumi0987/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/bhumi0987/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/bhumi0987/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/bhumi0987/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/bhumi0987/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/bhumi0987/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/bhumi0987/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/bhumi0987/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3433-count-mentions-per-user](https://github.com/bhumi0987/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/bhumi0987/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Depth-First Search
