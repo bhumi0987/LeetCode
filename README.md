@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2968-apply-operations-to-maximize-frequency-score](https://github.com/bhumi0987/LeetCode/tree/master/2968-apply-operations-to-maximize-frequency-score) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/bhumi0987/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/bhumi0987/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/bhumi0987/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/bhumi0987/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/bhumi0987/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/bhumi0987/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/bhumi0987/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/bhumi0987/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/bhumi0987/LeetCode/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/bhumi0987/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/bhumi0987/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2945-find-maximum-non-decreasing-array-length](https://github.com/bhumi0987/LeetCode/tree/master/2945-find-maximum-non-decreasing-array-length) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/bhumi0987/LeetCode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/bhumi0987/LeetCode/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/bhumi0987/LeetCode/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/bhumi0987/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/bhumi0987/LeetCode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/bhumi0987/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
